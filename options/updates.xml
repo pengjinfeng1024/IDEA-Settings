@@ -1,0 +1,18 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="CHECK_NEEDED" value="false" />
+    <ignoredBuildNumbers>
+      <item value="172.4343.14" />
+      <item value="172.4574.11" />
+      <item value="182.4505.22" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="IU-221.5080.210" />
+    <option name="LAST_TIME_CHECKED" value="1703769964323" />
+    <pluginHosts>
+      <item value="https://repo.idechajian.com" />
+      <item value="https://plugins.zhile.io" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+  </component>
+</application>

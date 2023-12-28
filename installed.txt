@@ -1,0 +1,9 @@
+JRebelPlugin
+MavenRunHelper
+VisualVMLauncher
+cn.yiiguxing.plugin.translate
+com.alibabacloud.intellij.cosy
+com.baomidou.plugin.idea.mybatisx
+com.kun.mybatis log convert
+com.linsage
+com.tianlei.plugin.mybatis

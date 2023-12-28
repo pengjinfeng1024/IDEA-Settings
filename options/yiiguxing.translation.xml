@@ -1,0 +1,151 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="262" />
+    <option name="newTranslationDialogWidth" value="352" />
+    <option name="newTranslationDialogX" value="629" />
+    <option name="newTranslationDialogY" value="608" />
+    <histories>
+      <item value="contract" />
+      <item value="dispute" />
+      <item value="repair" />
+      <item value="季度" />
+      <item value="quarter" />
+      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream. This is an intermediate operation. For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization. Params: action – a non-interfering action to perform on the elements as they are consumed from the stream Returns: the new stream API Note: This method exists mainly to support debugging, where you want to see the elements as" />
+      <item value="peek" />
+      <item value="predicate" />
+      <item value="lenient" />
+      <item value="待确认" />
+      <item value="choice" />
+      <item value="updating" />
+      <item value="original" />
+      <item value="orginal" />
+      <item value="org" />
+      <item value="orgi" />
+      <item value="orgin" />
+      <item value="executive" />
+      <item value="differ" />
+      <item value="raw" />
+      <item value="原始数据" />
+      <item value="push" />
+      <item value="后缀" />
+      <item value="non" />
+      <item value="Associates the specified value with the specified key in this map (optional operation). If the map previously contained a mapping for the key, the old value is replaced by the specified value. (A map m is said to contain a mapping for a key k if and only if m.containsKey(k) would return true.) Params: key – key with which the specified value is to be associated value – value to be associated with the specified key Returns: the previous value associated with key, or null if there was no mapping for key. (A null return can also indicate that the map previously associated null with key, if the implementation supports null values.)" />
+      <item value="块" />
+      <item value="局部" />
+      <item value="同级" />
+      <item value="同级别" />
+      <item value="Returns a copy of this LocalDate with the year altered. If the day-of-month is invalid for the year, it will be changed to the last valid day of the month. This instance is immutable and unaffected by this method call. Params: year – the year to set in the result, from MIN_YEAR to MAX_YEAR Returns: a LocalDate based on this date with the requested year, not null Throws: DateTimeException – if the year value is invalid" />
+      <item value="Shifts rows between startRow and endRow n number of rows. If you use a negative number, it will shift rows up. Code ensures that rows don't wrap around Additionally shifts merged regions that are completely defined in these rows (ie. merged 2 cells on a row to be shifted). All merged regions that are completely overlaid by shifting will be deleted." />
+      <item value="Shifts rows between startRow and endRow n number of rows. If you use a negative number, it will shift rows up. Code ensures that rows don't wrap around. Calls shiftRows(startRow, endRow, n, false, false); Additionally shifts merged regions that are completely defined in these rows (ie. merged 2 cells on a row to be shifted)." />
+      <item value="the number of rows to shift" />
+      <item value="Cannot add merged region A4:A16 to sheet because it overlaps with an existing merged region (A16:A27)." />
+      <item value="recursion" />
+      <item value="recu" />
+      <item value="递归" />
+      <item value="Correlations" />
+      <item value="FINANCE" />
+      <item value="reporter" />
+      <item value="bank" />
+      <item value="遍历" />
+      <item value="顺序" />
+      <item value="invert" />
+      <item value="最终受益人" />
+      <item value="tile" />
+      <item value="平铺" />
+      <item value="孙子" />
+      <item value="spread" />
+      <item value="叶子" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3197" />
+        <entry key="ENGLISH" value="2971" />
+        <entry key="POLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1675848674700" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20211019000976908" />
+      </app-key>
+    </option>
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1701153309959" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
+    <option name="wordbookStoragePath" value="D:\IntelliJ IDEA Settings" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="520" />
+    <option name="newTranslationDialogX" value="1046" />
+    <option name="newTranslationDialogY" value="635" />
+    <histories>
+      <item value="optimize" />
+      <item value="昨天" />
+      <item value="buttom" />
+      <item value="bottom" />
+      <item value="announcer" />
+      <item value="announ" />
+      <item value="合计" />
+      <item value="charts" />
+      <item value="dayly" />
+      <item value="trans" />
+      <item value="distinct" />
+      <item value="disti" />
+      <item value="distinc" />
+      <item value="advertising" />
+      <item value="customer" />
+      <item value="purcharse" />
+      <item value="purchares" />
+      <item value="purch" />
+      <item value="crop" />
+      <item value="addtional" />
+      <item value="企业微信" />
+      <item value="secret" />
+      <item value="se" />
+      <item value="失效" />
+      <item value="shi'xiao" />
+      <item value="invalied" />
+      <item value="waiting" />
+      <item value="wa" />
+      <item value="待启用" />
+      <item value="black" />
+      <item value="routine" />
+      <item value="常规" />
+      <item value="precated" />
+      <item value="Deprecated" />
+      <item value="解析" />
+      <item value="Alternatively" />
+      <item value="Returns a canonical representation for the string object. A pool of strings, initially empty, is maintained privately by the class String. When the intern method is invoked, if the pool already contains a string equal to this String object as determined by the equals(Object) method, then the string from the pool is returned. Otherwise, this String object is added to the pool and a reference to this String object is returned. It follows that for any two strings s and t, s.intern() == t.intern() is true if and only if s.equals(t) is true. All literal strings and string-valued constant expressions are interned. String literals are defined in section 3.10.5 of the The Java™ Language Specification. Returns: a string that has the same contents as this string, but is guaranteed to be from a pool of unique strings." />
+      <item value="quoted" />
+      <item value="被引用" />
+      <item value="manage" />
+      <item value="上限" />
+      <item value="shang'xian" />
+      <item value="corporation" />
+      <item value="corpo" />
+      <item value="refer" />
+      <item value="failure" />
+      <item value="refresh" />
+      <item value="faild" />
+      <item value="fa" />
+      <item value="FAILD" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="595" />
+        <entry key="ENGLISH" value="541" />
+      </map>
+    </option>
+  </component>
+</application>

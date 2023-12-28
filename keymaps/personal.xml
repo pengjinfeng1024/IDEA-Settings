@@ -1,0 +1,42 @@
+<keymap version="1" name="personal" parent="Eclipse">
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="Uml.NodeIntentions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+</keymap>

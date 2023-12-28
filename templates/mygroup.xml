@@ -1,0 +1,9 @@
+<templateSet group="mygroup">
+  <template name="file" value="/**&#10; * @Author : JinFeng.Peng&#10; * @Description: &#10; * @Date: Created in $TIME$ $DATE$&#10; * @Modified By:&#10; * @Copyright : (c)上海鱼越号智能科技有限公司&#10; */&#10;" description="addCommend" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.io.File.File(pathname)" />
+        <added pattern="java.sql.PreparedStatement.setInt(parameterIndex,x)" />
+        <added pattern="java.lang.String.replaceAll(regex,replacement)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

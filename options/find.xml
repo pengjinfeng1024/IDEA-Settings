@@ -1,0 +1,33 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*Mapper.xml</mask>
+    <mask>*controller.java</mask>
+    <mask>*.ftl</mask>
+    <mask>*Co.java</mask>
+    <mask>*DTO.java</mask>
+    <mask>*.js</mask>
+    <mask>*mapper.xml</mask>
+    <mask>Layer*mapper.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.pom</mask>
+    <mask>*</mask>
+    <mask>*.sh</mask>
+    <mask>*dto.java</mask>
+    <mask>*ES.java</mask>
+    <mask>*Service.java</mask>
+    <mask>*.properties</mask>
+    <mask>*.sql</mask>
+    <mask>*Controller.java</mask>
+    <mask>*Mapper.java</mask>
+    <mask>*.yml</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
+  </component>
+</application>

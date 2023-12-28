@@ -1,0 +1,43 @@
+<application>
+  <component name="FeatureSuggesterSettings">
+    <option name="suggestionLastShownTime">
+      <map>
+        <entry key="Paste from history" value="1646811253286" />
+      </map>
+    </option>
+    <option name="workingDays">
+      <list>
+        <option value="1698888249665" />
+        <option value="1698971862870" />
+        <option value="1699232855351" />
+        <option value="1699321202821" />
+        <option value="1699409793990" />
+        <option value="1699492411991" />
+        <option value="1699578164536" />
+        <option value="1699839261428" />
+        <option value="1699925674698" />
+        <option value="1700011289330" />
+        <option value="1700097186865" />
+        <option value="1700442667184" />
+        <option value="1700528931341" />
+        <option value="1700615698857" />
+        <option value="1700702544824" />
+        <option value="1700788509105" />
+        <option value="1701047201759" />
+        <option value="1701133871795" />
+        <option value="1701219377746" />
+        <option value="1701306414988" />
+        <option value="1701392700115" />
+        <option value="1701653824149" />
+        <option value="1701741056192" />
+        <option value="1702007897022" />
+        <option value="1702374091859" />
+        <option value="1702530650753" />
+        <option value="1702907215988" />
+        <option value="1703042542514" />
+        <option value="1703156493982" />
+        <option value="1703770097243" />
+      </list>
+    </option>
+  </component>
+</application>

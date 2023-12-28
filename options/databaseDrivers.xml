@@ -1,0 +1,36 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="db2" name="DB2 (LUW)" />
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" />
+    <driver id="derby.embedded" name="Derby (Embedded)" />
+    <driver id="derby.remote" name="Derby (Remote)" />
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" />
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" />
+    <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
+    <driver id="mysql" name="MySQL" />
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" />
+    <driver id="sybase.ase" name="Sybase (Native)" />
+    <driver id="java.sql.Driver" name="User Driver" driver-class="com.taosdata.jdbc.TSDBDriver">
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/com/taosdata/jdbc/taos-jdbcdriver/2.0.18/taos-jdbcdriver-2.0.18.jar</url>
+      </library>
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.8/httpclient-4.5.8.jar</url>
+      </library>
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar</url>
+      </library>
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.58/fastjson-1.2.58.jar</url>
+      </library>
+    </driver>
+    <driver id="cc3f5c43-f640-4bb0-932b-2b671a8853c0" name="Taos Driver" driver-class="com.taosdata.jdbc.TSDBDriver">
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/com/taosdata/jdbc/taos-jdbcdriver/2.0.18/taos-jdbcdriver-2.0.18.jar</url>
+      </library>
+    </driver>
+  </component>
+</application>

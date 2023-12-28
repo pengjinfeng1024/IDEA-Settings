@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="XIN-67【新需求】薪酬调整和设置流程" type="AUTO_DETECTED" />
+      <mapping pattern="coordinate" type="AUTO_DETECTED" />
+      <mapping pattern="EncryptionInfo" type="AUTO_DETECTED" />
+      <mapping pattern="p2p" type="JAVA" />
+      <mapping pattern="asd" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="设备端口协议以及应用关系说明1" type="Markdown" />
+      <mapping pattern="设备端口协议以及应用关系说明" type="PLAIN_TEXT" />
+      <mapping pattern="ElasticsearchTemplate初始化" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
+      <mapping ext="bat" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="st" type="PLAIN_TEXT" />
+      <mapping ext="properites" type="Properties" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>
