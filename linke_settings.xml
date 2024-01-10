@@ -1,0 +1,6 @@
+<application>
+  <component name="LinkIDEPluginSettings">
+    <option name="aesMode" value="true" />
+    <option name="statMode" value="true" />
+  </component>
+</application>
