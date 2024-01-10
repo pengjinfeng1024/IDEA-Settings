@@ -1,0 +1,8 @@
+<application>
+  <component name="DevMachines">
+    <option name="commandMap" value="[]" />
+    <option name="devMachineMap" value="[]" />
+    <option name="healthCheckMap" value="{&quot;path&quot;:&quot;/checkService&quot;,&quot;pattern&quot;:&quot;passed:true&quot;,&quot;port&quot;:9500,&quot;type&quot;:&quot;CURL&quot;}" />
+    <option name="terminalEncoding" value="utf-8" />
+  </component>
+</application>
